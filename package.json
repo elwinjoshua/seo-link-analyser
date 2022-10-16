@@ -1,0 +1,18 @@
+{
+  "name": "seo_link",
+  "version": "1.0.0",
+  "description": "seo_link_analyser",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "author": "elwinjoshua",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.1.2"
+  },
+  "dependencies": {
+    "jsdom": "^20.0.1"
+  }
+}
